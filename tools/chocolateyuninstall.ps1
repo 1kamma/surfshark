@@ -1,0 +1,1 @@
+﻿start-process -filepath "C:\ProgramData\Caphyon\Advanced Installer\{9E65D7E5-B255-493D-B95A-DECAB307DDF6}\SurfsharkSetup.exe" -argumentlist  '/x {9E65D7E5-B255-493D-B95A-DECAB307DDF6}  AI_UNINSTALLER_CTP=1 /qn'
